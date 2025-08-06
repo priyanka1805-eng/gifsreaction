@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# gifsreaction
+A fun and responsive GIF Search App built with React, TypeScript, Tailwind CSS, and GIPHY API. Features real-time search, async API calls, loading states, clean form handling, and a responsive grid layout using ShadCN UI. Great for learning external API integration and frontend skills!
+>>>>>>> 1b11c9e68d9df2437869862582f1ff445f741b37
